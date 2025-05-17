@@ -19,7 +19,7 @@ In many cases, due to limited level, some recommendations or comments may contai
       - [Affordance Learning](#affordance-learning)
       - [Latent Action Learning](#latent-action-learning)
       - [Visuomotor Learning](#visuomotor-learning)
-      - [Visuomotor Inference-Acceleration](#visuomotor-inference-acceleration)
+      - [Visuomotor Inference Acceleration](#visuomotor-inference-acceleration)
   - [Awesome Humanoid Robot & Mobile Arms](#awesome-Humanoid-Robot-&-Mobile-Arms—papers)
     - [Awesome DRL](#awesome-DRL)
     - [Awesome MLLM](#awesome-MLLM)
@@ -48,30 +48,38 @@ In many cases, due to limited level, some recommendations or comments may contai
 
 <!-- ******* 1.1-Robotic Arm ******* -->
 ### 📄 Robotic Arm
+<!-- ******* 1.1.3-Visuomotor Policies ******* -->
+### Visuomotor Policies
 
+
+<!-- ******* 1.1.3.1-Affordance Learning ******* -->
 #### Affordance Learning
 
 
 
 
 
-
+<!-- ******* 1.1.3.2-Latent Action Learning ******* -->
 #### Latent Action Learning
 
 
 
 
-
+<!-- ******* 1.1.3.3-Visuomotor Learning ******* -->
 #### Visuomotor Learning
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |------|------|------|------|------|------|------|
 
 
+| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [arxiv.org/abs/2303.04137v5](https://arxiv.org/abs/2303.04137v5)| Preprint | xxxx | [diffusion-policy.cs.columbia.edu/](https://diffusion-policy.cs.columbia.edu/) | [diffusion_policy_code]https://github.com/real-stanford/diffusion_policy | 7 Mar 2023 |
 
 
 
-#### Visuomotor Inference-Acceleration
+<p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
+
+<!-- ******* 1.1.3.4-Visuomotor Inference Acceleration ******* -->
+#### Visuomotor Inference Acceleration
 
 
 
