@@ -149,6 +149,27 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 
 
+<!-- ******* 4-Talk ******* -->
+## 📝 Awesome Talk
+
+| Talk | Link | Lecturer | Date |
+|:------|:------:|:------:|:-----:|
+
+
+
+
+<p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
+
+<!-- ******* 5-Course ******* -->
+## 📝 Awesome Course
+
+| Course | Link | School |
+|:------|:------:|:------:|
+|CS 294-277, Robots That Learn|[Link](https://robots-that-learn.github.io/)|UC Berkeley|
+
+
+<p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
+
 ## ✨ Citation
 If you find this repository useful, please consider citing this list:
 ```
