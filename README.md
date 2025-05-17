@@ -70,7 +70,7 @@ In many cases, due to limited level, some recommendations or comments may contai
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
-| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| Preprint | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
+| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| RSS 2023 | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
 
 
 
