@@ -7,6 +7,8 @@ On the other hand, we also try to include some open source courses and talks as 
 
 In many cases, due to limited level, some recommendations or comments may contain errors. Please point them out and we will correct them in time. Email---> jiabofang@outlook.com
 
+If you find this repository useful, please consider [citing](##citation) and STARing this list. Feel free to share this list with others!
+
 <!-- ******* 0-Content Table ******* -->
 ## 🏠 Table of Contents
 
@@ -130,7 +132,17 @@ In many cases, due to limited level, some recommendations or comments may contai
 
 
 
-
+## ✨ Citation
+If you find this repository useful, please consider citing this list:
+```
+@misc{jia2025roboticsandrobotlearning,
+    title = {Awesome-Robotics-Robot-Learning},
+    author = {Jia, Bofang},
+    journal = {GitHub repository},
+    url = {https://github.com/BofangJia/Awesome-Robotics-Robot-Learning},
+    year = {2025},
+}
+```
 
 
 
