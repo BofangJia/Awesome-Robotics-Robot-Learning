@@ -37,14 +37,30 @@ This repo contains a curated list of papers relating to Robotics and Robot Learn
 <!-- ******* 1-Papers ******* -->
 ## 📝 Awesome Papers
 
+<!-- ******* 1.1-Humanoid Robot ******* -->
 
+
+
+<!-- ******* 1.2-Robotic Arm ******* -->
+
+
+
+<!-- ******* 1.3-Quadruped Robot ******* -->
 
 
 
 <!-- ******* 2-Benchmarks ******* -->
 ## 📝 Awesome Benchmarks
 
+<!-- ******* 2.1-Humanoid Robot ******* -->
 
+
+
+<!-- ******* 2.2-Robotic Arm ******* -->
+
+
+
+<!-- ******* 2.3-Quadruped Robot ******* -->
 
 
 
@@ -53,7 +69,15 @@ This repo contains a curated list of papers relating to Robotics and Robot Learn
 
 
 
+<!-- ******* 3.1-Humanoid Robot ******* -->
 
+
+
+<!-- ******* 3.2-Robotic Arm ******* -->
+
+
+
+<!-- ******* 3.3-Quadruped Robot ******* -->
 
 
 
