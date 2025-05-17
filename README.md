@@ -39,6 +39,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
   - [Awesome Robotic Arm](#awesome-Robotic-Arm-survey)
   - [Awesome Humanoid Robot & Mobile Arms](#awesome-Humanoid-Robot-&-Mobile-Arms-survey)
   - [Awesome Quadruped Robot](#awesome-Quadruped-Robot-survey)
+- [Awesome Control and Learning](#awesome-control-and-learning)
 - [Awesome Talk](#awesome-talk)
 - [Awesome Course](#awesome-course)
 
@@ -148,8 +149,16 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 ### 📄 Quadruped Robot
 
 
+<!-- ******* 4-Control and Learning ******* -->
+## 📝 Awesome Control and Learning
 
-<!-- ******* 4-Talk ******* -->
+
+
+
+
+
+
+<!-- ******* 5-Talk ******* -->
 ## 📝 Awesome Talk
 
 | Talk | Link | Lecturer | Date |
@@ -160,7 +169,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
 
-<!-- ******* 5-Course ******* -->
+<!-- ******* 6-Course ******* -->
 ## 📝 Awesome Course
 
 | Course | Link | School |
