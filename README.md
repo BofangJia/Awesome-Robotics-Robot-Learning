@@ -74,8 +74,8 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
-| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137)| RSS 2023 | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
-| 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations | [Link](https://arxiv.org/abs/2403.03954)| RSS 2024 | xxxx | [Web](https://3d-diffusion-policy.github.io/) | [Code](https://github.com/YanjieZe/3D-Diffusion-Policy) | 6 Mar 2024 |
+| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137)| RSS 2023 | Policies based on diffusion models, which mainly include CNN-based and Transformer-based, have pioneering contributions. | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
+| 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations | [Link](https://arxiv.org/abs/2403.03954)| RSS 2024 | Diffusion Policy in 3D scenes. The experiments mainly include dexterous hands and grippers, using point clouds as input. | [Web](https://3d-diffusion-policy.github.io/) | [Code](https://github.com/YanjieZe/3D-Diffusion-Policy) | 6 Mar 2024 |
 
 
 
@@ -104,7 +104,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
-| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
+| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | Improved version of 3D Diffusion Policy. Experiments are mainly conducted on humanoid robots.| [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
 
