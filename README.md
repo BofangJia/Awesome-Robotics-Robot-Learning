@@ -7,7 +7,7 @@ On the other hand, we also try to include some open source courses and talks as 
 
 In many cases, due to limited level, some recommendations or comments may contain errors. Please point them out and we will correct them in time. Email---> jiabofang@outlook.com
 
-If you find this repository useful, please consider [citing](##Citation) and STARing this list. Feel free to share this list with others!
+If you find this repository useful, please consider [citing](#Citation) and STARing this list. Feel free to share this list with others!
 
 <!-- ******* 0-Content Table ******* -->
 ## 🏠 Table of Contents
