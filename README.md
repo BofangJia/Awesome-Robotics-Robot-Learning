@@ -49,7 +49,7 @@ In many cases, due to limited level, some recommendations or comments may contai
 <!-- ******* 1.1-Robotic Arm ******* -->
 ### 📄 Robotic Arm
 <!-- ******* 1.1.3-Visuomotor Policies ******* -->
-### Visuomotor Policies
+### 📄 Visuomotor Policies
 
 
 <!-- ******* 1.1.3.1-Affordance Learning ******* -->
@@ -71,7 +71,8 @@ In many cases, due to limited level, some recommendations or comments may contai
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
 | Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| RSS 2023 | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
-
+| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| RSS 2024 | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
+| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| ICRA 2025| xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
 
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
@@ -79,11 +80,14 @@ In many cases, due to limited level, some recommendations or comments may contai
 <!-- ******* 1.1.3.4-Visuomotor Inference Acceleration ******* -->
 #### Visuomotor Inference Acceleration
 
+| Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
+|:------|:------:|:------:|:------|:------:|:------:|:-----:|
+| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| RSS 2024 | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
+| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| Preprint | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
+| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| Preprint | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
 
 
-
-
-
+<p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
 
 <!-- ******* 1.2-Humanoid Robot******* -->
 ### 📄 Humanoid Robot
