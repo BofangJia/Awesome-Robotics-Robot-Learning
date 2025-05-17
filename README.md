@@ -26,6 +26,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
     - [Awesome DRL](#awesome-DRL)
     - [Awesome MLLM](#awesome-MLLM)
     - [Awesome Visuomotor Policies](#awesome-Visuomotor-Policies)
+      - [Visuomotor Learning](#visuomotor-learning)
   - [Awesome Quadruped Robot](#awesome-Quadruped-Robot—papers)
     - [Awesome DRL](#awesome-DRL)
     - [Awesome MLLM](#awesome-MLLM)
@@ -72,9 +73,9 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
-| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| RSS 2023 | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
-| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| RSS 2024 | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
-| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137v5)| ICRA 2025| xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
+| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137)| RSS 2023 | xxxx | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
+| 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations | [Link](https://arxiv.org/abs/2403.03954)| RSS 2024 | xxxx | [Web](https://3d-diffusion-policy.github.io/) | [Code](https://github.com/YanjieZe/3D-Diffusion-Policy) | 6 Mar 2024 |
+
 
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
@@ -93,6 +94,22 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 <!-- ******* 1.2-Humanoid Robot******* -->
 ### 📄 Humanoid Robot
+
+<!-- ******* 1.2.3-Visuomotor Policies ******* -->
+### 📄 Visuomotor Policies
+
+<!-- ******* 1.2.3.1-Visuomotor Learning ******* -->
+#### Visuomotor Learning
+
+| Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
+|:------|:------:|:------:|:------|:------:|:------:|:-----:|
+| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
+
+<p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
+
+
+
+
 
 
 <!-- ******* 1.3-Quadruped Robot ******* -->
