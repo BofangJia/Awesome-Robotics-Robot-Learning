@@ -7,11 +7,26 @@ This repo contains a curated list of papers relating to Robotics and Robot Learn
 ## 🏠 Table of Contents
 
 - [Awesome Papers](#awesome-papers)
-  - [Awesome DRL](#awesome-DRL)
-  - [Awesome MLLM](#awesome-MLLM)
-  - 
+  - [Awesome Robotic Arm](#awesome-Robotic-Arm—papers)
+    - [Awesome DRL](#awesome-DRL)
+    - [Awesome MLLM](#awesome-MLLM)
+    - [Awesome Visuomotor Policies](#awesome-Visuomotor-Policies)
+  - [Awesome Humanoid Robot & Mobile Arms](#awesome-Humanoid-Robot-&-Mobile-Arms—papers)
+    - [Awesome DRL](#awesome-DRL)
+    - [Awesome MLLM](#awesome-MLLM)
+    - [Awesome Visuomotor Policies](#awesome-Visuomotor-Policies)
+  - [Awesome Quadruped Robot](#awesome-Quadruped-Robot—papers)
+    - [Awesome DRL](#awesome-DRL)
+    - [Awesome MLLM](#awesome-MLLM)
+    - [Awesome Visuomotor Policies](#awesome-Visuomotor-Policies)
 - [Awesome Benchmarks](#awesome-datasets)
+  - [Awesome Robotic Arm](#awesome-Robotic-Arm-datasets)
+  - [Awesome Humanoid Robot & Mobile Arms](#awesome-Humanoid-Robot-&-Mobile-Arms-datasets)
+  - [Awesome Quadruped Robot](#awesome-Quadruped-Robot-datasets)
 - [Awesome Survey](#awesome-survey)
+  - [Awesome Robotic Arm](#awesome-Robotic-Arm-survey)
+  - [Awesome Humanoid Robot & Mobile Arms](#awesome-Humanoid-Robot-&-Mobile-Arms-survey)
+  - [Awesome Quadruped Robot](#awesome-Quadruped-Robot-survey)
 
 
 
