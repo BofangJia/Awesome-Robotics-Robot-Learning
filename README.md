@@ -3,6 +3,8 @@
 ## ✨ About 
 This repo contains a curated list of papers relating to Robotics and Robot Learning domain. This section is divided into categories according to robot configuration, reinforcement learning and multimodal methods, hierarchical systems and downstream policies.
 
+On the other hand, we also try to include some open source courses and talks as much as possible, hoping to build a comprehensive open source learning resource.
+
 <!-- ******* 0-Content Table ******* -->
 ## 🏠 Table of Contents
 
@@ -37,31 +39,31 @@ This repo contains a curated list of papers relating to Robotics and Robot Learn
 <!-- ******* 1-Papers ******* -->
 ## 📝 Awesome Papers
 
-<!-- ******* 1.1-Humanoid Robot ******* -->
+<!-- ******* 1.1-Robotic Arm ******* -->
+### 📄 Robotic Arm
 
 
-
-<!-- ******* 1.2-Robotic Arm ******* -->
-
+<!-- ******* 1.2-Humanoid Robot******* -->
+### 📄 Humanoid Robot
 
 
 <!-- ******* 1.3-Quadruped Robot ******* -->
-
+### 📄 Quadruped Robot
 
 
 <!-- ******* 2-Benchmarks ******* -->
 ## 📝 Awesome Benchmarks
 
-<!-- ******* 2.1-Humanoid Robot ******* -->
+<!-- ******* 2.1-Robotic Arm ******* -->
+### 📄 Robotic Arm
 
 
-
-<!-- ******* 2.2-Robotic Arm ******* -->
-
+<!-- ******* 2.2-Humanoid Robot ******* -->
+### 📄 Humanoid Robot
 
 
 <!-- ******* 2.3-Quadruped Robot ******* -->
-
+### 📄 Quadruped Robot
 
 
 <!-- ******* 3-Survey ******* -->
@@ -69,16 +71,16 @@ This repo contains a curated list of papers relating to Robotics and Robot Learn
 
 
 
-<!-- ******* 3.1-Humanoid Robot ******* -->
+<!-- ******* 3.1-Robotic Arm ******* -->
+### 📄 Robotic Arm
 
 
-
-<!-- ******* 3.2-Robotic Arm ******* -->
-
+<!-- ******* 3.2-Humanoid Robot ******* -->
+### 📄 Humanoid Robot
 
 
 <!-- ******* 3.3-Quadruped Robot ******* -->
-
+### 📄 Quadruped Robot
 
 
 
