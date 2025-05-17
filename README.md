@@ -39,7 +39,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
   - [Awesome Robotic Arm](#awesome-Robotic-Arm-survey)
   - [Awesome Humanoid Robot & Mobile Arms](#awesome-Humanoid-Robot-&-Mobile-Arms-survey)
   - [Awesome Quadruped Robot](#awesome-Quadruped-Robot-survey)
-- [Awesome Control and Learning](#awesome-control-and-learning)
+- [Awesome Control & Learning](#awesome-control-and-learning)
 - [Awesome Talk](#awesome-talk)
 - [Awesome Course](#awesome-course)
 
