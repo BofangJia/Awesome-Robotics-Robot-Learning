@@ -126,6 +126,14 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 ### 📄 Robotic Arm
 
 
+| Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
+|:------|:------:|:------:|:------|:------:|:------:|:-----:|
+| Open X-Embodiment: Robotic Learning Datasets and RT-X Models | [Link](https://arxiv.org/abs/2310.08864)| ICRA 2024 | Open X-Embodiment.| [Web](https://robotics-transformer-x.github.io/) | [Code](https://github.com/google-deepmind/open_x_embodiment) | 13 Oct 2023 |
+
+<p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
+
+
+
 <!-- ******* 2.2-Humanoid Robot ******* -->
 ### 📄 Humanoid Robot
 
