@@ -145,6 +145,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 | Title | Link | Source | Short Abstract | Date |
 |:------|:------:|:------:|:------|:------:|
 | A Survey on Vision-Language-Action Models for Embodied AI | [Link](https://arxiv.org/abs/2405.14093)| Preprint | VLA Model | 23 May 2024 |
+| Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models | [Link](https://arxiv.org/abs/2412.14058)| Preprint | VLA Model | 18 Dec 2024 |
 | Generative Artificial Intelligence in Robotic Manipulation: A Survey | [Link](https://arxiv.org/abs/2410.10803)| Preprint | Generative Model | 5 Mar 2025 |
 | Diffusion Models for Robotic Manipulation: A Survey | [Link](https://arxiv.org/abs/2504.08438)| Preprint | Diffusion Policy | 11 Apr 2025 |
 | Vision-Language-Action Models: Concepts, Progress, Applications and Challenges | [Link](https://www.arxiv.org/abs/2505.04769)| Preprint | VLA Model| 7 May 2025 |
