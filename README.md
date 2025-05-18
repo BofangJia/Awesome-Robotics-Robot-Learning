@@ -128,6 +128,10 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
+| RLBench: The Robot Learning Benchmark & Learning Environment | [Link](https://arxiv.org/abs/1909.12271)| RAL 2020 | RLBench.| [Web](https://sites.google.com/view/rlbench) | [Code](https://github.com/stepjam/RLBench) | 26 Sep 2019 |
+| Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning | [Link](https://arxiv.org/abs/1910.10897)| CoRL 2019 | Meta-World.| [Web](https://meta-world.github.io/) | [Code](https://github.com/Farama-Foundation/Metaworld) | 24 Oct 2019 |
+| CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks | [Link](https://arxiv.org/abs/2112.03227)| RAL 2022 | CALVIN.| [Web](http://calvin.cs.uni-freiburg.de/) | [Code](https://github.com/mees/calvin) | 6 Dec 2021 |
+| LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning | [Link](https://arxiv.org/abs/2306.03310)| NeurIPS 2023 | LIBERO.| [Web](https://libero-project.github.io/main.html) | [Code](https://github.com/Lifelong-Robot-Learning/LIBERO) | 5 Jun 2023 |
 | Open X-Embodiment: Robotic Learning Datasets and RT-X Models | [Link](https://arxiv.org/abs/2310.08864)| ICRA 2024 | Open X-Embodiment.| [Web](https://robotics-transformer-x.github.io/) | [Code](https://github.com/google-deepmind/open_x_embodiment) | 13 Oct 2023 |
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
