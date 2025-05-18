@@ -142,6 +142,15 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 <!-- ******* 3.1-Robotic Arm ******* -->
 ### 📄 Robotic Arm
 
+| Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
+|:------|:------:|:------:|:------|:------:|:------:|:-----:|
+| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxxxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
+| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxxxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
+| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxxxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
+| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxxxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
+
+<p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
+
 
 <!-- ******* 3.2-Humanoid Robot ******* -->
 ### 📄 Humanoid Robot
