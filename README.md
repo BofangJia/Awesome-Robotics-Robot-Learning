@@ -144,6 +144,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 | Title | Link | Source | Short Abstract | Date |
 |:------|:------:|:------:|:------|:------:|
+| Bridging Language and Action: A Survey of Language-Conditioned Robot Manipulation | [Link](https://arxiv.org/abs/2312.10807)| Preprint | Manipulation | 17 Dec 2023 |
 | A Survey on Vision-Language-Action Models for Embodied AI | [Link](https://arxiv.org/abs/2405.14093)| Preprint | VLA Model | 23 May 2024 |
 | Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models | [Link](https://arxiv.org/abs/2412.14058)| Preprint | VLA Model | 18 Dec 2024 |
 | Generative Artificial Intelligence in Robotic Manipulation: A Survey | [Link](https://arxiv.org/abs/2410.10803)| Preprint | Generative Model | 5 Mar 2025 |
