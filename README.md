@@ -64,8 +64,8 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
-| Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | [Link](https://arxiv.org/abs/2303.04137)| RSS 2023 | Policies based on diffusion models, which mainly include CNN-based and Transformer-based, have pioneering contributions. | [Web](https://diffusion-policy.cs.columbia.edu/) | [Code](https://github.com/real-stanford/diffusion_policy) | 7 Mar 2023 |
-| 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations | [Link](https://arxiv.org/abs/2403.03954)| RSS 2024 | Diffusion Policy in 3D scenes. The experiments mainly include dexterous hands and grippers, using point clouds as input. | [Web](https://3d-diffusion-policy.github.io/) | [Code](https://github.com/YanjieZe/3D-Diffusion-Policy) | 6 Mar 2024 |
+| RT-1: Robotics Transformer for Real-World Control at Scale | [Link](https://arxiv.org/abs/2212.06817)| RSS 2023 | xxxxxx. | [Web](https://robotics-transformer1.github.io/) | [Code](https://github.com/google-research/robotics_transformer) | 13 Dec 2022 |
+
 
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
