@@ -142,12 +142,12 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 <!-- ******* 3.1-Robotic Arm ******* -->
 ### 📄 Robotic Arm
 
-| Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
-|:------|:------:|:------:|:------|:------:|:------:|:-----:|
-| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxxxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
-| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxxxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
-| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxxxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
-| Generalizable Humanoid Manipulation with 3D Diffusion Policies | [Link](https://arxiv.org/abs/2410.10803)| Preprint | xxxxxxx | [Web](https://humanoid-manipulation.github.io/) | [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 14 Oct 2024 |
+| Title | Link | Source | Short Abstract | Date |
+|:------|:------:|:------:|:------|:------:|
+| A Survey on Vision-Language-Action Models for Embodied AI | [Link](https://arxiv.org/abs/2405.14093)| Preprint | VLA Model | 23 May 2024 |
+| Generative Artificial Intelligence in Robotic Manipulation: A Survey | [Link](https://arxiv.org/abs/2410.10803)| Preprint | Generative Model | 5 Mar 2025 |
+| Diffusion Models for Robotic Manipulation: A Survey | [Link](https://arxiv.org/abs/2504.08438)| Preprint | Diffusion Policy | 11 Apr 2025 |
+| Vision-Language-Action Models: Concepts, Progress, Applications and Challenges | [Link](https://www.arxiv.org/abs/2505.04769)| Preprint | VLA Model| 7 May 2025 |
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
 
