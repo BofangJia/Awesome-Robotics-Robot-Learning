@@ -68,7 +68,9 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
 | RT-1: Robotics Transformer for Real-World Control at Scale | [Link](https://arxiv.org/abs/2212.06817)| RSS 2023 | xxxxxx. | [Web](https://robotics-transformer1.github.io/) | [Code](https://github.com/google-research/robotics_transformer) | 13 Dec 2022 |
-
+| RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control | [Link](https://arxiv.org/abs/2307.15818)| CoRL 2023 | xxxxxx. | [Web](https://robotics-transformer2.github.io/) | [Not made public]() | 28 Jul 2023 |
+| Open X-Embodiment: Robotic Learning Datasets and RT-X Models | [Link](https://arxiv.org/abs/2310.08864)| ICRA 2024 | xxxxxx. | [Web](https://robotics-transformer-x.github.io/) | [Code](https://github.com/google-deepmind/open_x_embodiment) | 13 Oct 2023 |
+| RT-H: Action Hierarchies Using Language | [Link](https://arxiv.org/abs/2403.01823)| RSS 2024 | xxxxxx. | [Web](https://rt-hierarchy.github.io/) | [Not made public]() | 4 Mar 2024 |
 
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
