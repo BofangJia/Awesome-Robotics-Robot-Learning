@@ -16,7 +16,9 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
   - [Awesome Robotic Arm](#awesome-Robotic-Arm—papers)
     - [Awesome DRL](#awesome-DRL)
     - [Awesome MLLM](#awesome-MLLM)
-      - [Vision Language Action Models](#vision-language-action-models)
+      - [2D Vision Language Action Models](#2d-vision-language-action-models)
+      - [3D Vision Language Action Models](#3d-vision-language-action-models)
+      - [Dual Vision Language Action Models](#dual-vision-language-action-models)
     - [Awesome Visuomotor Policies](#awesome-Visuomotor-Policies)
       - [Affordance Learning](#affordance-learning)
       - [Latent Action Learning](#latent-action-learning)
@@ -59,8 +61,8 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 <!-- ******* 1.1.2-MLLM ******* -->
 ### 📄 MLLM
 
-<!-- ******* 1.1.2.1-Vision Language Action Models ******* -->
-#### Vision Language Action Models
+<!-- ******* 1.1.2.1-2D Vision Language Action Models ******* -->
+#### 2D Vision Language Action Models
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
@@ -69,6 +71,17 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
+
+
+
+<!-- ******* 1.1.2.2-3D Vision Language Action Models ******* -->
+#### 3D Vision Language Action Models
+
+
+
+
+<!-- ******* 1.1.2.3-Dual Vision Language Action Models ******* -->
+#### Dual Vision Language Action Models
 
 
 
