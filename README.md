@@ -77,13 +77,25 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 <!-- ******* 1.1.2.2-3D Vision Language Action Models ******* -->
 #### 3D Vision Language Action Models
 
+| Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
+|:------|:------:|:------:|:------|:------:|:------:|:-----:|
 
+
+
+
+<p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
 
 
 <!-- ******* 1.1.2.3-Dual Vision Language Action Models ******* -->
 #### Dual Vision Language Action Models
 
+| Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
+|:------|:------:|:------:|:------|:------:|:------:|:-----:|
 
+
+
+
+<p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
 
 <!-- ******* 1.1.3-Visuomotor Policies ******* -->
 ### 📄 Visuomotor Policies
