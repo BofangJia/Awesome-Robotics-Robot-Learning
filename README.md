@@ -94,7 +94,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
 |:------|:------:|:------:|:------|:------:|:------:|:-----:|
-
+| OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation | [Link](https://arxiv.org/abs/2505.03912)| Preprint | xxxxxx. | [Web](https://openhelix-robot.github.io/) | [Code](https://github.com/OpenHelix-robot/OpenHelix) | 6 May 2025 |
 
 
 
