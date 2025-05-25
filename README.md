@@ -26,6 +26,8 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
       - [Visuomotor Learning](#visuomotor-learning)
       - [Visuomotor Inference Acceleration](#visuomotor-inference-acceleration)
       - [Dexterous Manipulation](#dexterous-manipulation)
+    - [Awesome Data Collection](#awesome-data-collection)
+      - [UMI](#umi)
     - [Awesome Tactile Manipulation](#awesome-tactile-manipulation)
   - [Awesome Humanoid Robot & Mobile Arms](#awesome-Humanoid-Robot-&-Mobile-Arms—papers)
     - [Awesome DRL](#awesome-DRL)
