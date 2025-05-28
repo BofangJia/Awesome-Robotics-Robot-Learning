@@ -100,7 +100,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 | From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control | [Link](https://arxiv.org/abs/2405.04798)| IROS 2024 | xxxxxx. | [Web](https://fredshentu.github.io/LCB_site/) | Not made public | 8 May 2024 |
 | HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers | [Link](https://arxiv.org/abs/2410.05273)| CORL 2024 | xxxxxx. | Not made public | Not made public | 12 Sep 2024 |
 | OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation | [Link](https://arxiv.org/abs/2505.03912)| Preprint | xxxxxx. | [Web](https://openhelix-robot.github.io/) | [Code](https://github.com/OpenHelix-robot/OpenHelix) | 6 May 2025 |
-
+| Hume: Introducing System-2 Thinking in Visual-Language-Action Model | [Link](https://arxiv.org/abs/2505.21432)| Preprint | xxxxxx. | Not made public | Not made public | 27 May 2025 |
 
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
