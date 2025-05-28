@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
     - [Awesome Data Collection](#awesome-data-collection)
       - [UMI](#umi)
     - [Awesome Tactile Manipulation](#awesome-tactile-manipulation)
+  - [Awesome Bimanual Manipulation](#awesome-Bimanual-Manipulation—papers)
   - [Awesome Humanoid Robot & Mobile Arms](#awesome-Humanoid-Robot-&-Mobile-Arms—papers)
     - [Awesome DRL](#awesome-DRL)
     - [Awesome MLLM](#awesome-MLLM)
@@ -157,13 +158,23 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 <p align=right>(<a href=#Awesome-Robotics-Robot-Learning>back to top</a>)</p>
 
-<!-- ******* 1.2-Humanoid Robot******* -->
+
+<!-- ******* 1.2-Bimanual Manipulation******* -->
+### 📄 Bimanual Manipulation
+
+
+
+
+
+
+
+<!-- ******* 1.3-Humanoid Robot******* -->
 ### 📄 Humanoid Robot
 
-<!-- ******* 1.2.3-Visuomotor Policies ******* -->
+<!-- ******* 1.3.3-Visuomotor Policies ******* -->
 ### 📄 Visuomotor Policies
 
-<!-- ******* 1.2.3.1-Visuomotor Learning ******* -->
+<!-- ******* 1.3.3.1-Visuomotor Learning ******* -->
 #### Visuomotor Learning
 
 | Title | Link | Source | Short Abstract | Web Page | Code Page | Date |
@@ -177,7 +188,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 
 
-<!-- ******* 1.3-Quadruped Robot ******* -->
+<!-- ******* 1.4-Quadruped Robot ******* -->
 ### 📄 Quadruped Robot
 
 
