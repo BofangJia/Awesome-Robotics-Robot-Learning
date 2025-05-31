@@ -30,6 +30,7 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
       - [UMI](#umi)
     - [Awesome Tactile Manipulation](#awesome-tactile-manipulation)
   - [Awesome Bimanual Manipulation](#awesome-Bimanual-Manipulation—papers)
+      - [Unimanual ---> Bimanual](#unimanual ---> bimanual)
   - [Awesome Humanoid Robot & Mobile Arms](#awesome-Humanoid-Robot-&-Mobile-Arms—papers)
     - [Awesome DRL](#awesome-DRL)
     - [Awesome MLLM](#awesome-MLLM)
@@ -164,6 +165,9 @@ If you find this repository useful, please consider [citing](#Citation) and STAR
 
 
 
+
+<!-- ******* 1.2.1-Unimanual ---> Bimanual ******* -->
+### 📄 Unimanual ---> Bimanual
 
 
 
